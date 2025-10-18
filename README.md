@@ -45,7 +45,3 @@ Continuously seeking to expand my expertise, I stay current with the latest indu
 <img  src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
-<p align="center">
-<img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaherrera&layout=compact&theme=dark&hide_border=true" />
-<img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=Jotaherrera&show_icons=true&hide_border=true&theme=dark" />
-</p>
