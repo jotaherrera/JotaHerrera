@@ -1,11 +1,4 @@
 <p align="center">
-  <a href="https://github.com/Jotaherrera?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jotaherrera?color=FDFFF1&style=for-the-badge&labelColor=141414&logo=star"/></a>
-  <a href="https://github.com/Jotaherrera?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jotaherrera?color=FDFFF1&labelColor=141414&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<p align="center">
   <a href="mailto:juanherreramen13@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/juanjoseherreramendoza/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
