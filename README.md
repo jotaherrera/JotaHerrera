@@ -1,5 +1,3 @@
-![Banner Image](https://github.com/Jotaherrera/JotaHerrera/blob/main/assets/banner_software_eng.png)
-
 <p align="center">
   <a href="https://github.com/Jotaherrera?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jotaherrera?color=FDFFF1&style=for-the-badge&labelColor=141414&logo=star"/></a>
